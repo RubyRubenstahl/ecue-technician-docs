@@ -1,5 +1,8 @@
 This repository contains a collection of documents that are useful in the commissioning e:cue lighting systems. At the moment, the collection only contains a few documents, but I expect it to grow over time. 
 
+## Action Pad Configuration Guide
+A guide for end-users explaining how to configure the iOS/Android mobile Action Pad
+
 ## Glass Touch Layouts
 This series of documents is intended to make the documenting of Glass Touch button Layouts easy, clean, and consistent. 
 
