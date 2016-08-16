@@ -15,10 +15,10 @@ The Butler XT2 supports control via RS-232. With the right information it is a f
 
 
 ##Protocol Details
-The protocol is fairly simple and contains only a few commands. All commands have the following aspecs in common: 
+The protocol is fairly simple and contains only a few commands. All commands have the following aspects in common: 
 - Each command starts with a two-letter command code
 - Each command has one or two 3-digit prameter with [leading 0's](https://en.wikipedia.org/wiki/Leading_zero)
-- All commands must be followed by a newline and a carrage return (`\r\n` or `\0x0d \0x0a`) to be recognized by the buttler
+- All commands must be followed by a newline and a carrage return (`\r\n` or `\0x0d \0x0a`) to be recognized by the Butler
 
 
 |Command Code	|Parameters			|Action					|Example
